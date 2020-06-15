@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>intelligent_process_behaviortree</name>
+  <version>0.0.1</version>
+  <description>A library to test BehaviorTreeCPP in a motion planning context</description>
+  <author email="joe.schornak@gmail.com">Joseph Schornak</author>
+  <maintainer email="joe.schornak@gmail.com">Joseph Schornak</maintainer>
+  <export>
+    <build_type>cmake</build_type>
+  </export>
+</package>
